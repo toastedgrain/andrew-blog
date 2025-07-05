@@ -35,8 +35,8 @@ export default function WebsitePost() {
           I wanted to create a personal website that reflected both my
           personality and my passion for tech, and clean design. Initially, I
           chose Hugo and Netlify to quickly launch a static site, thinking it
-          would simplify the entire process. However, my experience wasn't as
-          smooth as anticipated. While Hugo allowed me to rapidly build the
+          would simplify the entire process. However, my experience wasn&apos;t
+          as smooth as anticipated. While Hugo allowed me to rapidly build the
           foundation, I quickly found myself tangled in a web of broken links,
           messy layouts, and deployment frustrations. Netlify amplified these
           problems due to misconfigured routes and failed deployments. After
