@@ -63,19 +63,19 @@ export default function WebsitePost() {
           perhaps.
         </p>
         <p>
-          Reflecting on the process, I've learned how crucial patience and
+          Reflecting on the process, I&apos;ve learned how crucial patience and
           iteration are in creating something truly polished. I have learnt my
           skill levels and abilities to code. I have continued to learn ways to
           become more efficient in my process and coding and I hope to
           accomplish more as time goes on.
         </p>
         <p>
-          While this version of my website accomplishes many goals, I'm already
-          thinking ahead about future improvements. These include adding more
-          interactive features, enhancing accessibility, incorporating a backend
-          for dynamic blog posting, and optimizing for even better performance
-          across devices. The website isn't finished, it will continue to evolve
-          as I grow, learn, and refine my skills further.
+          While this version of my website accomplishes many goals, I&apos;m
+          already thinking ahead about future improvements. These include adding
+          more interactive features, enhancing accessibility, incorporating a
+          backend for dynamic blog posting, and optimizing for even better
+          performance across devices. The website isn&apos;t finished, it will
+          continue to evolve as I grow, learn, and refine my skills further.
         </p>
       </article>
     </main>

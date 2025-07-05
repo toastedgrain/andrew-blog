@@ -55,7 +55,7 @@ export default function Home() {
       >
         Welcome to
         <br />
-        Andrew Zhao's page
+        Andrew Zhao&apos;s page
       </motion.h1>
 
       {/* Scroll Down Arrow (fades and then stays hidden) */}
@@ -94,9 +94,9 @@ export default function Home() {
           style={{ opacity: introOpacity, y: introY }}
           className="text-2xl font-medium text-gray-700 text-center max-w-xl"
         >
-          Hey! I’m Andrew, a CS student at UC Irvine. I love tech, sports, and
-          sharing what I learn. I update this when time allows me to explore my
-          hobbies.
+          Hey! I&apos;m Andrew, a CS student at UC Irvine. I love tech, sports,
+          and sharing what I learn. I update this when time allows me to explore
+          my hobbies.
         </motion.div>
       </div>
     </section>
