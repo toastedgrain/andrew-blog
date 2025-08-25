@@ -23,7 +23,7 @@ export default function BlogPage() {
           </li>
           <li className="p-4 border rounded-xl shadow hover:shadow-lg transition">
             <Link
-              href="/blog/balancing-life"
+              href="/blog/chatbots"
               className="text-xl font-semibold text-blue-400 hover:underline"
             >
               Creating a Chatbot User Interface
