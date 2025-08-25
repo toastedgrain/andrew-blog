@@ -82,7 +82,7 @@ export default function WebsitePost() {
           and persistence. And honestly, seeing my chatbot actually work made
           all that effort worth it. Although it probably wont ever amount to
           anything, I had fun experimenting with streamlit and its use cases. I
-          think that it's a really simple but in depth library that people
+          think that it&apos;s a really simple but in depth library that people
           should 100% use if they want to learn something.
         </p>
       </article>
