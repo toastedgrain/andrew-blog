@@ -21,6 +21,19 @@ export default function BlogPage() {
               I quick peek into why and how I chose to make this website
             </p>
           </li>
+          <li className="p-4 border rounded-xl shadow hover:shadow-lg transition">
+            <Link
+              href="/blog/balancing-life"
+              className="text-xl font-semibold text-blue-400 hover:underline"
+            >
+              Creating a Chatbot User Interface
+            </Link>
+            <div className="text-gray-500 text-sm">August 2025</div>
+            <p className="mt-2 text-gray-700">
+              Sharing how I created a Gemini powered chatbot interface for
+              personal fun
+            </p>
+          </li>
         </ul>
       </div>
     </main>
